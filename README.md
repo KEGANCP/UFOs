@@ -21,5 +21,5 @@
 
 ### Filter Options
 <p align="center">
-  <img src="https://github.com/KEGANCP/UFOs/blob/main/resources/layout.png" alt="Layout"/>
+  <img src="https://github.com/KEGANCP/UFOs/blob/main/resources/filters.png" alt="Filters"/>
 </p>
