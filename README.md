@@ -14,3 +14,7 @@
     - HTML
     - Javascript
     - Bootstrap
+
+<p align="center">
+  <img src="https://github.com/KEGANCP/UFOs/blob/main/resources/web_layout.png" alt="Layout"/>
+</p>
