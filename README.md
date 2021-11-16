@@ -7,7 +7,7 @@
 ----
 ### Project Overview
 <p align="center">
-  My primary goal was to create a webpage, utilizing the image below outlining the desired layout. Within the webpage I wanted to generate a search feature to execute and collect data within specific desired criteria. I was able to generate all desired funtions by utlizing the following tools.
+  My primary goal was to create a webpage to show a collection of reported UFO's sightings across the world, utilizing the image below outlining the desired layout. Within the webpage I wanted to generate a search feature to execute and collect data within specific desired criteria. I was able to generate all desired funtions by utlizing the following tools.
 </p>
 
 ### Tools Utilized:
