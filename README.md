@@ -20,6 +20,7 @@
 </p>
 
 ### Filter Options
-<p align="center">
-  <img src="https://github.com/KEGANCP/UFOs/blob/main/resources/filters.png" alt="Filters"/>
-</p>
+HTML Filter Code             |  Filter Table Within Webpage
+:-------------------------:|:-------------------------:
+![](https://github.com/KEGANCP/UFOs/blob/main/resources/filterHTML.png)  |  ![](https://github.com/KEGANCP/UFOs/blob/main/resources/filters.png)
+
